@@ -6,6 +6,7 @@ Complete Python Introduction. It includes:
 3. Control Flow
 4. Functions 
 5. Object Oriented Prog.
+6. Error Handling
 
 
 Other files will be added ASAP...
