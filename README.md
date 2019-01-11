@@ -1,4 +1,5 @@
 # complete-python3-introduction
+![alt txt](http://digiguyzz.com/wp-content/uploads/2018/09/python-faq-670x335.jpg)        
 Complete Python Introduction. It includes:
 1. Basic Opeartors
 2. Data types and data structures
