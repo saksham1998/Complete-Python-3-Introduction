@@ -10,7 +10,7 @@
 6. Error Handling
 7. Many more.......
 # Milestone Projects:
-1. **Tic-Tac-Toe Game
+1. **Tic-Tac-Toe Game**
 ![alt txt](https://github.com/saksham1998/complete-python3-introduction/blob/master/images/Screenshot%20(30).png)
 
 ![alt txt](https://github.com/saksham1998/complete-python3-introduction/blob/master/images/Screenshot%20(31).png)
@@ -21,4 +21,4 @@
 
 Note : Other files will be uploaded as soon as possible........
 
-**Thank You,Saksham:)
+**Thank You,Saksham:)**
