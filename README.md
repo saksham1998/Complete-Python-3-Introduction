@@ -8,7 +8,7 @@
 4. Functions 
 5. Object Oriented Prog.
 6. Error Handling
-7. Many more.......
+7. Much more.......
 # Milestone Projects:
 1. **Tic-Tac-Toe Game**
 ![alt txt](https://github.com/saksham1998/complete-python3-introduction/blob/master/images/Screenshot%20(30).png)
