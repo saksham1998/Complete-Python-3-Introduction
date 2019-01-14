@@ -1,14 +1,24 @@
-# complete-python3-introduction
-![alt txt](http://digiguyzz.com/wp-content/uploads/2018/09/python-faq-670x335.jpg)        
-Complete Python Introduction. It includes:
+# Complete Python 3 Introduction!!
+
+   ![alt txt](http://fossbytes.com/wp-content/uploads/2016/08/python-Programming-Language-Software.jpg)        
+# It Includes:
 1. Basic Opeartors
 2. Data types and data structures
 3. Control Flow
 4. Functions 
 5. Object Oriented Prog.
 6. Error Handling
+7. Much more.......
+# Milestone Projects:
+1. **Tic-Tac-Toe Game**
+![alt txt](https://github.com/saksham1998/complete-python3-introduction/blob/master/images/Screenshot%20(30).png)
 
+![alt txt](https://github.com/saksham1998/complete-python3-introduction/blob/master/images/Screenshot%20(31).png)
+*Actual photos of the game
 
-Other files will be added ASAP...
+# Prerequisites:
+* Jupyter Notebook
 
-Note: You must have anaconda/jupyter-notebook for using the files.
+Note : Other files will be uploaded as soon as possible........
+
+**Thank You,Saksham:)**
