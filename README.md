@@ -8,10 +8,12 @@
 4. Functions 
 5. Object Oriented Prog.
 6. Error Handling
-7. Much more.......
+7. Input/Output
 # Libraries:
 1. Numpy
 2. Pandas
+3. MatplolLib
+4. Seaborn
 # Projects:
 1. **Tic-Tac-Toe Game**
 ![alt txt](https://github.com/saksham1998/complete-python3-introduction/blob/master/images/Screenshot%20(30).png)
@@ -21,7 +23,5 @@
 
 # Prerequisites:
 * Jupyter Notebook
-
-Note : Other files will be uploaded as soon as possible........
 
 **Thank You,Saksham:)**
